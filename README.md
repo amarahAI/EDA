@@ -19,3 +19,6 @@
 
 ✔️Validating data to ensure data quality.
 
+
+The analysis will only be as good as your data, so don’t underestimate the power of data wrangling. 💪🏽🤠
+
