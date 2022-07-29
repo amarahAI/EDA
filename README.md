@@ -8,9 +8,14 @@
  
  
  I secretly love the data wrangling step of of the analytics process considering the below ~
+ 
 ✔️Cleaning the raw data.
+
 ✔️Recoding variables.
+
 ✔️Combining data with other sources/datasets.
+
 ✔️Engineering new variables.
+
 ✔️Validating data to ensure data quality.
 
